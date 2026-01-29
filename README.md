@@ -1,5 +1,10 @@
 # ai-a11y
 
+[![npm version](https://img.shields.io/npm/v/ai-a11y.svg)](https://www.npmjs.com/package/ai-a11y)
+[![npm downloads](https://img.shields.io/npm/dm/ai-a11y.svg)](https://www.npmjs.com/package/ai-a11y)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Scan your HTML and JSX files for accessibility issues. Get WCAG-based suggestions with actual code fixes.
 
 ## Install
