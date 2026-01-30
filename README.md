@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-a11y.svg)](https://www.npmjs.com/package/ai-a11y)
 [![npm downloads](https://img.shields.io/npm/dm/ai-a11y.svg)](https://www.npmjs.com/package/ai-a11y)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-a11y)](https://github.com/lxgic-studios/ai-a11y/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Scan your HTML and JSX files for accessibility issues. Get WCAG-based suggestions with actual code fixes.
