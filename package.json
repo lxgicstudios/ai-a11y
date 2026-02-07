@@ -40,14 +40,14 @@
   "homepage": "https://github.com/lxgicstudios/ai-a11y#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-a11y"
+    "url": "git+https://github.com/lxgicstudios/ai-a11y.git"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-a11y/issues"
+    "url": "https://github.com/lxgicstudios/ai-a11y/issues"
   },
   "funding": {
     "type": "github",
-    "url": "https://github.com/sponsors/LXGIC-Studios"
+    "url": "https://github.com/sponsors/lxgicstudios"
   },
   "engines": {
     "node": ">=18.0.0"
