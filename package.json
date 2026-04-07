@@ -1,5 +1,5 @@
 {
-  "name": "ai-a11y",
+  "name": "@lxgicstudios/ai-a11y",
   "version": "1.0.0",
   "description": "AI-powered accessibility checker - WCAG compliance and ARIA fixes with GPT analysis",
   "main": "dist/index.js",
