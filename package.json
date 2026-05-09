@@ -15,35 +15,42 @@
     "build": "tsc"
   },
   "keywords": [
-    "ai",
-    "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "accessibility",
+    "2025-standards",
     "a11y",
-    "wcag",
+    "accessibility",
+    "ai",
+    "ai-2025",
+    "ai-powered",
+    "anthropic",
     "aria",
-    "screen-reader",
-    "developer-tools",
-    "cli",
     "automation",
-    "typescript",
+    "claude",
+    "cli",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
     "nodejs",
-    "html",
-    "jsx",
-    "react"
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "screen-reader",
+    "seo",
+    "seo-2026",
+    "typescript",
+    "wcag"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-a11y#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-a11y.git"
+    "url": "https://github.com/LXGIC-Studios/ai-a11y"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-a11y/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-a11y/issues"
   },
   "funding": {
     "type": "github",
