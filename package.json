@@ -1,54 +1,14 @@
 {
-  "name": "@lxgicstudios/ai-a11y",
-  "version": "1.0.0",
-  "description": "AI-powered accessibility checker - WCAG compliance and ARIA fixes with GPT analysis",
-  "main": "dist/index.js",
-  "types": "./dist/index.d.ts",
+  "author": {
+    "name": "lxgic studios",
+    "email": "contact@lxgic.com",
+    "url": "https://lxgic.com"
+  },
   "bin": {
     "ai-a11y": "dist/cli.js"
   },
-  "files": [
-    "dist",
-    "README.md"
-  ],
-  "scripts": {
-    "build": "tsc"
-  },
-  "keywords": [
-    "accessibility",
-    "a11y",
-    "wcag",
-    "screen-reader",
-    "aria",
-    "AI-powered",
-    "AI-optimized",
-    "performance",
-    "optimization",
-    "seo",
-    "discoverability",
-    "2025-standards",
-    "modern-seo"
-  ],
-  "author": "LXGIC Studios",
-  "license": "MIT",
-  "homepage": "https://github.com/lxgicstudios/ai-a11y#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lxgicstudios/ai-a11y"
-  },
   "bugs": {
     "url": "https://github.com/lxgicstudios/ai-a11y/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/LXGIC-Studios"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "publishConfig": {
-    "access": "public",
-    "provenance": true
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -56,8 +16,55 @@
     "ora": "^5.4.1",
     "glob": "^10.3.0"
   },
+  "description": "AI-powered accessibility checker - WCAG compliance and ARIA fixes with GPT analysis",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
-  }
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "homepage": "https://github.com/lxgicstudios/ai-a11y#readme",
+  "keywords": [
+    "AI-optimized",
+    "AI-powered",
+    "a11y",
+    "accessibility",
+    "ai-powered",
+    "automation",
+    "best-practices",
+    "cli",
+    "developer-tools",
+    "performance",
+    "seo-tools",
+    "technical-seo",
+    "utility",
+    "web-optimization",
+    "2025-standards",
+    "modern-seo"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "@lxgicstudios/ai-a11y",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-a11y"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "./dist/index.d.ts",
+  "version": "1.0.0"
 }
