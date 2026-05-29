@@ -14,7 +14,7 @@
 
 <div align="center">
 
-# Ai a11y
+# AI A11y
 
 solve specific development challenges with AI-powered insights.
 
@@ -24,7 +24,7 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered software development tool for modern developers.
+> AI-powered accessibility checker - WCAG compliance and ARIA fixes with GPT analysis.
 
 ## 🚀 Features
 
