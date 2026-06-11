@@ -35,6 +35,9 @@
   "homepage": "https://github.com/lxgicstudios/ai-a11y#readme",
   "keywords": [
     "2026-standards",
+    "modern-seo",
+    "ai-powered",
+    "lxgic",
     "AI-optimized",
     "AI-powered",
     "a11y",
@@ -43,12 +46,9 @@
     "best-practices",
     "cli",
     "developer-tools",
-    "modern-seo",
     "performance",
     "seo-tools",
-    "technical-seo",
-    "utility",
-    "web-optimization"
+    "technical-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
